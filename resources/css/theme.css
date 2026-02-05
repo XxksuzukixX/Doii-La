@@ -1,0 +1,329 @@
+/* red */
+[data-theme="red"] {
+  --color-50: theme(colors.red.50);
+  --color-100: theme(colors.red.100);
+  --color-200: theme(colors.red.200);
+  --color-300: theme(colors.red.300);
+  --color-400: theme(colors.red.400);
+  --color-500: theme(colors.red.500);
+  --color-600: theme(colors.red.600);
+  --color-700: theme(colors.red.700);
+  --color-800: theme(colors.red.800);
+  --color-900: theme(colors.red.900);
+  --color-950: theme(colors.red.950);
+}
+
+/* orange */
+[data-theme="orange"] {
+  --color-50: theme(colors.orange.50);
+  --color-100: theme(colors.orange.100);
+  --color-200: theme(colors.orange.200);
+  --color-300: theme(colors.orange.300);
+  --color-400: theme(colors.orange.400);
+  --color-500: theme(colors.orange.500);
+  --color-600: theme(colors.orange.600);
+  --color-700: theme(colors.orange.700);
+  --color-800: theme(colors.orange.800);
+  --color-900: theme(colors.orange.900);
+  --color-950: theme(colors.orange.950);
+}
+
+/* amber */
+[data-theme="amber"] {
+  --color-50: theme(colors.amber.50);
+  --color-100: theme(colors.amber.100);
+  --color-200: theme(colors.amber.200);
+  --color-300: theme(colors.amber.300);
+  --color-400: theme(colors.amber.400);
+  --color-500: theme(colors.amber.500);
+  --color-600: theme(colors.amber.600);
+  --color-700: theme(colors.amber.700);
+  --color-800: theme(colors.amber.800);
+  --color-900: theme(colors.amber.900);
+  --color-950: theme(colors.amber.950);
+}
+
+/* yellow */
+[data-theme="yellow"] {
+  --color-50: theme(colors.yellow.50);
+  --color-100: theme(colors.yellow.100);
+  --color-200: theme(colors.yellow.200);
+  --color-300: theme(colors.yellow.300);
+  --color-400: theme(colors.yellow.400);
+  --color-500: theme(colors.yellow.500);
+  --color-600: theme(colors.yellow.600);
+  --color-700: theme(colors.yellow.700);
+  --color-800: theme(colors.yellow.800);
+  --color-900: theme(colors.yellow.900);
+  --color-950: theme(colors.yellow.950);
+}
+
+/* lime */
+[data-theme="lime"] {
+  --color-50: theme(colors.lime.50);
+  --color-100: theme(colors.lime.100);
+  --color-200: theme(colors.lime.200);
+  --color-300: theme(colors.lime.300);
+  --color-400: theme(colors.lime.400);
+  --color-500: theme(colors.lime.500);
+  --color-600: theme(colors.lime.600);
+  --color-700: theme(colors.lime.700);
+  --color-800: theme(colors.lime.800);
+  --color-900: theme(colors.lime.900);
+  --color-950: theme(colors.lime.950);
+}
+
+/* green */
+[data-theme="green"] {
+  --color-50: theme(colors.green.50);
+  --color-100: theme(colors.green.100);
+  --color-200: theme(colors.green.200);
+  --color-300: theme(colors.green.300);
+  --color-400: theme(colors.green.400);
+  --color-500: theme(colors.green.500);
+  --color-600: theme(colors.green.600);
+  --color-700: theme(colors.green.700);
+  --color-800: theme(colors.green.800);
+  --color-900: theme(colors.green.900);
+  --color-950: theme(colors.green.950);
+}
+
+/* emerald */
+[data-theme="emerald"] {
+  --color-50: theme(colors.emerald.50);
+  --color-100: theme(colors.emerald.100);
+  --color-200: theme(colors.emerald.200);
+  --color-300: theme(colors.emerald.300);
+  --color-400: theme(colors.emerald.400);
+  --color-500: theme(colors.emerald.500);
+  --color-600: theme(colors.emerald.600);
+  --color-700: theme(colors.emerald.700);
+  --color-800: theme(colors.emerald.800);
+  --color-900: theme(colors.emerald.900);
+  --color-950: theme(colors.emerald.950);
+}
+
+/* teal */
+[data-theme="teal"] {
+  --color-50: theme(colors.teal.50);
+  --color-100: theme(colors.teal.100);
+  --color-200: theme(colors.teal.200);
+  --color-300: theme(colors.teal.300);
+  --color-400: theme(colors.teal.400);
+  --color-500: theme(colors.teal.500);
+  --color-600: theme(colors.teal.600);
+  --color-700: theme(colors.teal.700);
+  --color-800: theme(colors.teal.800);
+  --color-900: theme(colors.teal.900);
+  --color-950: theme(colors.teal.950);
+}
+
+/* cyan */
+[data-theme="cyan"] {
+  --color-50: theme(colors.cyan.50);
+  --color-100: theme(colors.cyan.100);
+  --color-200: theme(colors.cyan.200);
+  --color-300: theme(colors.cyan.300);
+  --color-400: theme(colors.cyan.400);
+  --color-500: theme(colors.cyan.500);
+  --color-600: theme(colors.cyan.600);
+  --color-700: theme(colors.cyan.700);
+  --color-800: theme(colors.cyan.800);
+  --color-900: theme(colors.cyan.900);
+  --color-950: theme(colors.cyan.950);
+}
+
+/* sky */
+[data-theme="sky"] {
+  --color-50: theme(colors.sky.50);
+  --color-100: theme(colors.sky.100);
+  --color-200: theme(colors.sky.200);
+  --color-300: theme(colors.sky.300);
+  --color-400: theme(colors.sky.400);
+  --color-500: theme(colors.sky.500);
+  --color-600: theme(colors.sky.600);
+  --color-700: theme(colors.sky.700);
+  --color-800: theme(colors.sky.800);
+  --color-900: theme(colors.sky.900);
+  --color-950: theme(colors.sky.950);
+}
+
+/* blue */
+[data-theme="blue"] {
+  --color-50: theme(colors.blue.50);
+  --color-100: theme(colors.blue.100);
+  --color-200: theme(colors.blue.200);
+  --color-300: theme(colors.blue.300);
+  --color-400: theme(colors.blue.400);
+  --color-500: theme(colors.blue.500);
+  --color-600: theme(colors.blue.600);
+  --color-700: theme(colors.blue.700);
+  --color-800: theme(colors.blue.800);
+  --color-900: theme(colors.blue.900);
+  --color-950: theme(colors.blue.950);
+}
+
+/* indigo */
+[data-theme="indigo"] {
+  --color-50: theme(colors.indigo.50);
+  --color-100: theme(colors.indigo.100);
+  --color-200: theme(colors.indigo.200);
+  --color-300: theme(colors.indigo.300);
+  --color-400: theme(colors.indigo.400);
+  --color-500: theme(colors.indigo.500);
+  --color-600: theme(colors.indigo.600);
+  --color-700: theme(colors.indigo.700);
+  --color-800: theme(colors.indigo.800);
+  --color-900: theme(colors.indigo.900);
+  --color-950: theme(colors.indigo.950);
+}
+
+/* violet */
+[data-theme="violet"] {
+  --color-50: theme(colors.violet.50);
+  --color-100: theme(colors.violet.100);
+  --color-200: theme(colors.violet.200);
+  --color-300: theme(colors.violet.300);
+  --color-400: theme(colors.violet.400);
+  --color-500: theme(colors.violet.500);
+  --color-600: theme(colors.violet.600);
+  --color-700: theme(colors.violet.700);
+  --color-800: theme(colors.violet.800);
+  --color-900: theme(colors.violet.900);
+  --color-950: theme(colors.violet.950);
+}
+
+/* purple */
+[data-theme="purple"] {
+  --color-50: theme(colors.purple.50);
+  --color-100: theme(colors.purple.100);
+  --color-200: theme(colors.purple.200);
+  --color-300: theme(colors.purple.300);
+  --color-400: theme(colors.purple.400);
+  --color-500: theme(colors.purple.500);
+  --color-600: theme(colors.purple.600);
+  --color-700: theme(colors.purple.700);
+  --color-800: theme(colors.purple.800);
+  --color-900: theme(colors.purple.900);
+  --color-950: theme(colors.purple.950);
+}
+
+/* fuchsia */
+[data-theme="fuchsia"] {
+  --color-50: theme(colors.fuchsia.50);
+  --color-100: theme(colors.fuchsia.100);
+  --color-200: theme(colors.fuchsia.200);
+  --color-300: theme(colors.fuchsia.300);
+  --color-400: theme(colors.fuchsia.400);
+  --color-500: theme(colors.fuchsia.500);
+  --color-600: theme(colors.fuchsia.600);
+  --color-700: theme(colors.fuchsia.700);
+  --color-800: theme(colors.fuchsia.800);
+  --color-900: theme(colors.fuchsia.900);
+  --color-950: theme(colors.fuchsia.950);
+}
+
+/* pink */
+[data-theme="pink"] {
+  --color-50: theme(colors.pink.50);
+  --color-100: theme(colors.pink.100);
+  --color-200: theme(colors.pink.200);
+  --color-300: theme(colors.pink.300);
+  --color-400: theme(colors.pink.400);
+  --color-500: theme(colors.pink.500);
+  --color-600: theme(colors.pink.600);
+  --color-700: theme(colors.pink.700);
+  --color-800: theme(colors.pink.800);
+  --color-900: theme(colors.pink.900);
+  --color-950: theme(colors.pink.950);
+}
+
+/* rose */
+[data-theme="rose"] {
+  --color-50: theme(colors.rose.50);
+  --color-100: theme(colors.rose.100);
+  --color-200: theme(colors.rose.200);
+  --color-300: theme(colors.rose.300);
+  --color-400: theme(colors.rose.400);
+  --color-500: theme(colors.rose.500);
+  --color-600: theme(colors.rose.600);
+  --color-700: theme(colors.rose.700);
+  --color-800: theme(colors.rose.800);
+  --color-900: theme(colors.rose.900);
+  --color-950: theme(colors.rose.950);
+}
+
+/* slate */
+[data-theme="slate"] {
+  --color-50: theme(colors.slate.50);
+  --color-100: theme(colors.slate.100);
+  --color-200: theme(colors.slate.200);
+  --color-300: theme(colors.slate.300);
+  --color-400: theme(colors.slate.400);
+  --color-500: theme(colors.slate.500);
+  --color-600: theme(colors.slate.600);
+  --color-700: theme(colors.slate.700);
+  --color-800: theme(colors.slate.800);
+  --color-900: theme(colors.slate.900);
+  --color-950: theme(colors.slate.950);
+}
+
+/* gray */
+[data-theme="gray"] {
+  --color-50: theme(colors.gray.50);
+  --color-100: theme(colors.gray.100);
+  --color-200: theme(colors.gray.200);
+  --color-300: theme(colors.gray.300);
+  --color-400: theme(colors.gray.400);
+  --color-500: theme(colors.gray.500);
+  --color-600: theme(colors.gray.600);
+  --color-700: theme(colors.gray.700);
+  --color-800: theme(colors.gray.800);
+  --color-900: theme(colors.gray.900);
+  --color-950: theme(colors.gray.950);
+}
+
+/* zinc */
+[data-theme="zinc"] {
+  --color-50: theme(colors.zinc.50);
+  --color-100: theme(colors.zinc.100);
+  --color-200: theme(colors.zinc.200);
+  --color-300: theme(colors.zinc.300);
+  --color-400: theme(colors.zinc.400);
+  --color-500: theme(colors.zinc.500);
+  --color-600: theme(colors.zinc.600);
+  --color-700: theme(colors.zinc.700);
+  --color-800: theme(colors.zinc.800);
+  --color-900: theme(colors.zinc.900);
+  --color-950: theme(colors.zinc.950);
+}
+
+/* neutral */
+[data-theme="neutral"] {
+  --color-50: theme(colors.neutral.50);
+  --color-100: theme(colors.neutral.100);
+  --color-200: theme(colors.neutral.200);
+  --color-300: theme(colors.neutral.300);
+  --color-400: theme(colors.neutral.400);
+  --color-500: theme(colors.neutral.500);
+  --color-600: theme(colors.neutral.600);
+  --color-700: theme(colors.neutral.700);
+  --color-800: theme(colors.neutral.800);
+  --color-900: theme(colors.neutral.900);
+  --color-950: theme(colors.neutral.950);
+}
+
+/* stone */
+[data-theme="stone"] {
+  --color-50: theme(colors.stone.50);
+  --color-100: theme(colors.stone.100);
+  --color-200: theme(colors.stone.200);
+  --color-300: theme(colors.stone.300);
+  --color-400: theme(colors.stone.400);
+  --color-500: theme(colors.stone.500);
+  --color-600: theme(colors.stone.600);
+  --color-700: theme(colors.stone.700);
+  --color-800: theme(colors.stone.800);
+  --color-900: theme(colors.stone.900);
+  --color-950: theme(colors.stone.950);
+}

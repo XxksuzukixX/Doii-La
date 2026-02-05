@@ -1,0 +1,5 @@
+
+git add .
+git commit -m "xxx"
+git push origin main
+ssh -i "$env:USERPROFILE\.ssh\id_ed25519_rampserver_key" rampt@192.168.1.49 "cd C:/xampp/htdocs/simple-reservation && git pull origin main"

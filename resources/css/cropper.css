@@ -1,0 +1,10 @@
+/* Cropper のトリミング枠を円形に見せる */
+.cropper-view-box,
+.cropper-face {
+    border-radius: 50%;
+}
+
+/* 周囲の暗転を自然に */
+.cropper-modal {
+    opacity: 0.6;
+}

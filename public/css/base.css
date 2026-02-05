@@ -1,0 +1,75 @@
+/* ===============================================
+   Base Reset CSS
+   -----------------------------------------------
+   - ブラウザ差異をなくす軽量リセット
+   - box-sizing を統一
+   - デフォルト余白・フォント・画像/メディアの挙動調整
+================================================ */
+
+/* box-sizing を全要素で統一 */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* デフォルト余白を削除 */
+body,
+h1, h2, h3, h4, h5, h6,
+p,
+ul, ol, li,
+figure,
+blockquote,
+dl, dd {
+  margin: 0;
+  padding: 0;
+}
+
+/* body の初期設定 */
+body {
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* メディアのデフォルト挙動を統一 */
+img,
+picture,
+video,
+canvas,
+svg {
+  display: block;
+  max-width: 100%;
+}
+
+/* フォーム要素のフォント継承 */
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
+/* リストのマーカーを消す */
+ul,
+ol {
+  list-style: none;
+}
+
+/* アンカーの装飾をリセット */
+  /* a {
+    text-decoration: none;
+    color: inherit;
+  } */
+
+/* テーブルのリセット */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* ルートフォントサイズやスクロール挙動 */
+html {
+  -webkit-text-size-adjust: 100%;
+  scroll-behavior: smooth;
+}
