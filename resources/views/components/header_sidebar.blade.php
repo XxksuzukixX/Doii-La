@@ -14,7 +14,7 @@
         {{-- Logo --}}
         <div class="flex items-center gap-2 p-2">
             <a 
-                href="doiila/home" 
+                href="{{ route('dashboard') }}" 
                 class="
                     w-14 h-14 p-0.5
                     rounded-xl
@@ -32,7 +32,7 @@
                 >
             </a>
 
-            <a href="/home" class="text-4xl font-bold tracking-tight text-green-100 border-b-3  py-1">
+            <a href="{{ route('dashboard') }}"  class="text-4xl font-bold tracking-tight text-green-100 border-b-3  py-1">
                 {{config('app.name')}}
             </a>
         </div>
