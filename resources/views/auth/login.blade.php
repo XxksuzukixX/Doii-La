@@ -6,7 +6,7 @@
                 ログイン
             </h1>
 
-            <form method="POST" action="/login" class="px-5">
+            <form method="POST" action="{{ route('login') }}" class="px-5">
                 @csrf
 
                 <x-input_unit

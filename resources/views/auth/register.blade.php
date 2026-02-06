@@ -6,7 +6,7 @@
                 新規登録
             </h1>
 
-            <form method="POST" action="/register" class="px-5">
+            <form method="POST" action="{{ route('register.show') }}" class="px-5">
                 @csrf
 
                 <x-input_unit
