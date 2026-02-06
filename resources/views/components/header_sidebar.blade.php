@@ -14,7 +14,7 @@
         {{-- Logo --}}
         <div class="flex items-center gap-2 p-2">
             <a 
-                href="/home" 
+                href="doiila/home" 
                 class="
                     w-14 h-14 p-0.5
                     rounded-xl
